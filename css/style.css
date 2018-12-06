@@ -1,0 +1,12 @@
+body {
+  background-color: orange;
+  color: black;
+}
+
+h2 {
+  display: inline;
+}
+
+#start {
+  margin: 10px;
+}
